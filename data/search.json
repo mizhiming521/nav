@@ -19,16 +19,14 @@
     "url": "https://www.google.com/search?q=",
     "icon": "https://pic.yuaogroup.top/nav/sag/google.svg",
     "blocked": false,
-    "isInner": false,
-    "placeholder": "谷歌一下"
+    "isInner": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://pic.yuaogroup.top/nav/sag/bing.svg",
-    "blocked": false,
-    "isInner": false,
-    "placeholder": "必应一下"
+    "blocked": true,
+    "isInner": false
   },
   {
     "name": "GitHub",
@@ -42,16 +40,15 @@
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://pic.yuaogroup.top/nav/sag/zhihu.svg",
-    "blocked": false,
-    "isInner": false,
-    "placeholder": "知乎查询"
+    "blocked": true,
+    "isInner": false
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
     "icon": "https://pic.yuaogroup.top/nav/sag/douban.svg",
     "placeholder": "书名、作者、ISBN",
-    "blocked": false,
+    "blocked": true,
     "isInner": false
   }
 ]
