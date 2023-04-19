@@ -1,4 +1,10 @@
 {
+  "宇傲": {
+    "createdAt": "2023-04-19T02:25:29.935Z",
+    "color": "#f50000",
+    "desc": "宇傲",
+    "isInner": false
+  },
   "中文": {
     "color": "#2db7f5",
     "createdAt": "2018-01-25T07:56:31.372Z",
@@ -15,6 +21,42 @@
     "color": "#108ee9",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
+    "isInner": true
+  },
+  "console日志": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "console服务日志",
+    "isInner": true
+  },
+  "ecs日志": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "ecs服务日志",
+    "isInner": true
+  },
+  "swagger": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "swagger文档",
+    "isInner": true
+  },
+  "jvm": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "jvm信息",
+    "isInner": true
+  },
+  "jstack": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "nacos信息",
+    "isInner": true
+  },
+  "nacos": {
+    "color": "#108ee9",
+    "createdAt": "2022-03-15T07:56:31.372Z",
+    "desc": "nacos信息",
     "isInner": true
   }
 }
