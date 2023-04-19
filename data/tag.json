@@ -17,6 +17,12 @@
     "desc": "系统内置不可删除",
     "isInner": true
   },
+  "多租户": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "多租户",
+    "isInner": true
+  },
   "console日志": {
     "color": "#108ee9",
     "createdAt": "2022-03-15T07:56:31.372Z",
@@ -63,6 +69,84 @@
     "createdAt": "2023-04-19T02:26:47.414Z",
     "color": "#8700f5",
     "desc": "个人",
+    "isInner": true
+  },
+  "vue": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "vue",
+    "isInner": true
+  },
+  "java": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "java",
+    "isInner": true
+  },
+  "docker": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "docker",
+    "isInner": true
+  },
+  "kubernetes": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "kubernetes",
+    "isInner": true
+  },
+  "cicd": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "cicd",
+    "isInner": true
+  },
+  "监控": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "监控",
+    "isInner": true
+  },
+  "Job": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "Job",
+    "isInner": true
+  },
+  "MQ": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "MQ",
+    "isInner": true
+  },
+  "博客": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "博客",
+    "isInner": true
+  },
+  "网盘": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "网盘",
+    "isInner": true
+  },
+  "IDE": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "IDE",
+    "isInner": true
+  },
+  "SpringBoot": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "SpringBoot",
+    "isInner": true
+  },
+  "nginx": {
+    "createdAt": "2023-04-19T02:26:47.414Z",
+    "color": "#8700f5",
+    "desc": "nginx",
     "isInner": true
   }
 }
