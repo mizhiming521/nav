@@ -1,26 +1,20 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
-  "homeUrl": "https://nav3.cn",
+  "favicon": "https://pic.yuaogroup.top/nav/logo/logo.png",
+  "homeUrl": "https://pic.yuaogroup.top",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Light",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "showGithub": false,
+  "title": "我艾我佳 - 精选导航",
+  "description": "我艾我佳 - 精选导航",
+  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全",
+  "theme": "Side",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 天津瀚侨车体制造有限公司 <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">津ICP备19004211号</a></div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
+  "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://pic.yuaogroup.top/nav/side/sim-wallpaper1.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -31,30 +25,26 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
+      "src": "https://cdn.jsdelivr.net/gh/mizhiming521/nav@image/nav-1681872147159-sim-wallpaper1.jpeg",
+      "url": "https://pic.yuaogroup.top/nav/side/sim-wallpaper1.jpg",
       "width": null,
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 70,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://pic.yuaogroup.top/nav/shortcut/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
+  "showWrapper": false,
+  "showDark": false,
   "showRate": true,
   "mirrorList": []
 }
